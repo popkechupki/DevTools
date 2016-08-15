@@ -4,7 +4,7 @@ version: 1.11.0
 api: 2.0.0
 load: STARTUP
 author: PocketMine Team
-description: Helps develop and distribute PocketMine-MP plugins
+description: "Helps develop and distribute PocketMine-MP plugins"
 website: https://github.com/PocketMine/DevTools
 commands:
  makeserver:
